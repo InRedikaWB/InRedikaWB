@@ -4,9 +4,7 @@
 
 ---
 
-А еще, я работаю в Veeam Software C#-разработчиком. Немного знаком с ASP.NET, EF. Иногда тыкаю различные штуки, из интересного:
-- [Fluda]( https://github.com/InRedikaWB/Fluda) – библиотека для клиент-серверного взаимодействия с базой данных
-- [VkLibrary]( https://github.com/InRedikaWB/VkLibrary) – кодогенератор SDK для работы с VK API с использованием Roslyn
+А еще, я работаю в Veeam Software C#-разработчиком. Немного знаком с ASP.NET, EF.
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=inredikawb&show_icons=true)
 
