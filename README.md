@@ -20,3 +20,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
+
+---
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=inredikawb&theme=onedark&no-frame=true&margin-h=15" />
+</div>
