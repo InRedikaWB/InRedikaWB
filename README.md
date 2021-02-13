@@ -6,8 +6,6 @@
 
 А еще, я работаю в Veeam Software C#-разработчиком. Особо с технологиями не перескаюсь, большая часть задач связана с реализацией бизнес требований. Но чтобы хоть немного быть на волне в свободное время страюсь тыкать с ASP.NET, EF, местами даже Blazor.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=inredikawb&show_icons=true&include_all_commits=true)
-
 ---
 
 - 🔭 На данный момент, большую часть времени я уделяю студенческому проекту
@@ -23,6 +21,8 @@
 
 ---
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=inredikawb&show_icons=true&include_all_commits=true)
+
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=inredikawb&theme=onedark&no-frame=true&margin-h=15" />
+   <img src="https://github-profile-trophy.vercel.app/?username=inredikawb&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-h=15" />
 </div>
